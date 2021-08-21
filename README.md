@@ -26,6 +26,6 @@
   <a href = "mailto:karenm.hirayama@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/karenhirayama/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" target="_blank"></a> 
  
- 
+  ![Snake animation](https://github.com/karenhirayama/karenhirayama/blob/output/github-contribution-grid-snake.svg)
  
 </div>
