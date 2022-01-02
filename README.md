@@ -2,9 +2,8 @@
 
 <h3>About me:</h3>
  <ul>
-   <li>👩‍💻 I'm currenty learning JavaScript and improving my sklis in web developer.</li>
+   <li>👩‍💻 Front-end Developer | JavaScript | ReactJs | HTML5 | CSS3 </li>
    <li>👀 I'm looking to Web Developer jobs.</li>
-   <li>💡 I'm looking to collaborate and help all I can.</li>
 
    ##
    
