@@ -2,6 +2,6 @@
  
 <h4>About me:</h4>
  <ul>
-   <li>👩‍💻 Front-end Developer</li>
-   <li>👀 I'm looking to Web Developer jobs.</li>
-  </ul>
+   <li>👩‍💻 Full Stack  Developer</li>
+   <li>🚀 I am highly hardworking and committed to attaining my goals as a front-end developer.</li>
+ </ul>
