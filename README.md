@@ -1,4 +1,4 @@
-<h3>Hi, I'm Karen Mayumi Hirayama<h3>
+<h3>Hi, I'm Karen Hirayama<h3>
  
 <h4>About me:</h4>
  <ul>
